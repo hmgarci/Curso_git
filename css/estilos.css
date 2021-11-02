@@ -1,10 +1,10 @@
 body
 {
-    background: red;
-    color: yellow;
+    background: white;
+    color: red;
     text-align: center;
     font-family: Arial;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0;
     padding: 0;
 }
